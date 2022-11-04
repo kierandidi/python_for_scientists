@@ -29,7 +29,7 @@ sns.scatterplot(x=[1,2,3], y=[1,2,3])
 Click on the `▶ Run` button. Your output should now look like this:
 
 <div>
-<img src="images/jupyter_test.png" width="700"/>
+<img src="img/jupyter_test.png" width="700"/>
 </div>
 
 If it does, congratulations! You now have a working installation of Python with a lot of packages required for scientific computing. Now close the Anaconda Prompt / Terminal and your webbrowser to shutdown Jupyter. You can also delete the `.ipynb_checkpoints` folder which Jupyter automatically built in the folder in which you just created this Python file.

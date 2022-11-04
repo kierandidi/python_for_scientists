@@ -1,6 +1,6 @@
 # Python for Scientists Course
 
-*Heidelberg University, winter semester 2022/23, organised by [Kieran Didi](https://github.com/kierandidi) and [Lukas Jarosch]()
+*Heidelberg University, winter semester 2022/23, organised by [Kieran Didi](https://github.com/kierandidi) and [Lukas Jarosch](https://github.com/ljarosch)
 
 Dear all, 
 
