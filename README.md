@@ -11,7 +11,7 @@ You can download it by clicking on the green "_CODE_" button and choosing "Downl
 Make sure to not change the folder structure of the repository or else some image links might get broken and not work anymore.
 
 <div>
-<img src="images/explanation_download.png" width="700"/>
+<img src="img/explanation_download.png" width="700"/>
 </div>
 
 For questions write in the course discord or drop me a mail: kieran.didi@stud.uni-heidelberg.de
