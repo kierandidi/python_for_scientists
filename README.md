@@ -15,3 +15,12 @@ Make sure to not change the folder structure of the repository or else some imag
 </div>
 
 For questions write in the course discord or drop me a mail: kieran.didi@stud.uni-heidelberg.de
+
+## Overview of the course
+
+**19.11**|**20.11**|**26.11**|**27.11**
+:-----:|:-----:|:-----:|:-----:
+Python I|Python II|Pandas|Seaborn
+Basics|Loops|Explore/Index|Basic Plotting/Plot Types
+Conditionals|Dictionaries|Clean/Filter Data|Visual encoding of variables
+Lists|Functions|GroupBy|Jupyter Analysis/Plotly
