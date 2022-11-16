@@ -20,7 +20,7 @@ For questions write in the course discord or drop me a mail: kieran.didi@stud.un
 
 **19.11**|**20.11**|**26.11**|**27.11**
 :-----:|:-----:|:-----:|:-----:
-Python I|Python II|Pandas|Seaborn
+*Python I*|*Python II*|*Pandas*|*Seaborn*
 Basics|Loops|Explore/Index|Basic Plotting/Plot Types
 Conditionals|Dictionaries|Clean/Filter Data|Visual encoding of variables
 Lists|Functions|GroupBy|Jupyter Analysis/Plotly
