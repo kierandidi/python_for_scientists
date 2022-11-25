@@ -21,6 +21,6 @@ For questions write in the course discord or drop me a mail: kieran.didi@stud.un
 **19.11**|**20.11**|**26.11**|**27.11**
 :-----:|:-----:|:-----:|:-----:
 *Python I*|*Python II*|*Pandas*|*Seaborn*
-Basics (LJ)|Loops/Comprehensions (KD)|Explore/Index (LJ)|Basic Plotting/Plot Types (KD)
-Conditionals (KD)|Dictionaries (LJ)|Clean/Filter Data (KD)|Visual encoding of variables (LJ)
+Variables and Data Types (LJ)|Loops/Comprehensions (KD)|Basic Pandas (LJ)|Basic Plotting/Plot Types (KD)
+Conditionals (KD)|Dictionaries (LJ)|Clean/Filter Data (KD)|Plot Customization (LJ)
 Lists (LJ)|Functions (KD)|GroupBy (LJ)| Plotly/GIFs/Animations (KD)
