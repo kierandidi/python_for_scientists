@@ -2,6 +2,8 @@
 
 Heidelberg University, winter semester 2022/23, organised by [Kieran Didi](https://github.com/kierandidi) and [Lukas Jarosch](https://github.com/ljarosch)
 
+UPDATE: The material for the advanced course in the summer semester 2023 is available [here](https://github.com/kierandidi/advanced_python_for_scientists)
+
 Dear all, 
 
 this is the repository that we will use during our course. 
