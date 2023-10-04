@@ -1,6 +1,6 @@
 # Python for Scientists Course
 
-Heidelberg University, winter semester 2022/23, organised by [Kieran Didi](https://github.com/kierandidi) and [Lukas Jarosch](https://github.com/ljarosch)
+Heidelberg University, winter semester 2023/24, organised by [Kieran Didi](https://github.com/kierandidi).
 
 UPDATE: The material for the advanced course in the summer semester 2023 is available [here](https://github.com/kierandidi/advanced_python_for_scientists)
 
@@ -20,7 +20,7 @@ For questions write in the course discord or drop me a mail: kieran.didi@stud.un
 
 ## Overview of the course
 
-**19.11**|**20.11**|**26.11**|**27.11**
+**18.11**|**19.11**|**25.11**|**26.11**
 :-----:|:-----:|:-----:|:-----:
 *Python I*|*Python II*|*Pandas*|*Seaborn*
 Variables and Data Types (LJ)|Loops/Comprehensions (KD)|Basic Pandas (LJ)|Basic Plotting/Plot Types (KD)
