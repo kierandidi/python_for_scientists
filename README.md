@@ -26,3 +26,17 @@ For questions write in the course discord or drop me a mail: kieran.didi@stud.un
 Variables and Data Types|Loops/Comprehensions|Basic Pandas|Basic Plotting/Plot Types
 Conditionals|Dictionaries|Clean/Filter Data|Plot Customization
 Lists|Functions|Aggregate/Apply/GroupBy| Plotly/GIFs/Animations
+
+## Exercises
+
+For the second weekend, choose one of these five exercises to work on:
+
+1. [Make a Gradebook with Python & pandas](https://realpython.com/pandas-project-gradebook/#calculating-grades-with-pandas-dataframes)
+
+2. [Build a Quiz Application with Python](https://realpython.com/python-quiz-application/#provide-multiple-choices)
+
+3. [Instagram Reach Analysis using Python](https://thecleverprogrammer.com/2022/03/22/instagram-reach-analysis-using-python/)
+
+4. [Flight Price Prediction](https://machinelearningprojects.net/flight-price-prediction/)
+
+5. Your own project idea!
